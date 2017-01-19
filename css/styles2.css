@@ -1,4 +1,4 @@
-/*Navbar styling*/
+/* ----------- Nav styles ----------- */
 .navbar {
     font-family: 'Roboto', sans-serif;
     margin-bottom: 0;
@@ -30,7 +30,7 @@
     color: #1abc9c !important;
 }
 
-/*Container for Homepage Icons*/
+/* ----------- Homepage icons ----------- */
 .floating-box {
     display: inline-block;
     margin: 20px;
@@ -71,6 +71,7 @@
     
 }
 
+/* ----------- Homepage text ----------- */
 .headline {
     font-size:80px;
     font-weight:700;

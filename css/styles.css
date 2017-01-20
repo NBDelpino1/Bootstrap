@@ -21,13 +21,18 @@
     color: #ffffff;
 }
 
+.navbar-brand:hover {
+    color: #ffffff;
+}
+
 .icon-bar {
     background-color:#cf2e06;
 }
 
 /*Navlinks styling*/
 .navbar-nav  li a:hover {
-    color: #1abc9c !important;
+    color: #cf2e06 !important;
+    /*background-color: #d6d6d6;*/
 }
 
 /* ----------- Homepage icons ----------- */

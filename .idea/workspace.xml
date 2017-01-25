@@ -2,34 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cfe2c73-80a2-48b6-8e06-f023068690af" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test20.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test21.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test22.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test23.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test24.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test25.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test26.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test27.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test28.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test29.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test30.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test7.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/port_americanairlines.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/port_matchdating.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/port_ucfdt.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/port_ucfmobile.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sample1.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sample2.jpeg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sample3.jpeg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,11 +18,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="225">
+              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/portfolio.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="658">
+              <caret line="69" column="27" lean-forward="false" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -98,8 +81,8 @@
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/contact.html" />
-        <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/about.html" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
       </list>
     </option>
   </component>
@@ -238,12 +221,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484703662749</updated>
-      <workItem from="1484703666644" duration="61510000" />
+      <workItem from="1484703666644" duration="62144000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61510000" />
+    <option name="totallyTimeSpent" value="62144000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -482,14 +465,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
@@ -508,8 +483,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state relative-caret-position="225">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="658">
+          <caret line="69" column="27" lean-forward="false" selection-start-line="69" selection-start-column="27" selection-end-line="69" selection-end-column="27" />
           <folding />
         </state>
       </provider>

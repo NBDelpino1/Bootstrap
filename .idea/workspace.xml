@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cfe2c73-80a2-48b6-8e06-f023068690af" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sample4.jpeg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/sample2.jpeg" afterPath="$PROJECT_DIR$/img/sample2.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test20.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test21.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test22.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test23.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test24.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test25.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test26.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test27.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test28.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test30.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/test7.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/port_americanairlines.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/port_matchdating.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/port_ucfdt.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/port_ucfmobile.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sample1.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sample2.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/img/sample3.jpeg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
@@ -24,54 +45,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="796">
-              <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="66" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/portfolio.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="49" column="33" lean-forward="false" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contact.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="748">
-              <caret line="61" column="79" lean-forward="false" selection-start-line="61" selection-start-column="79" selection-end-line="61" selection-end-column="79" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+            <state relative-caret-position="300">
+              <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/styles.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="841">
-              <caret line="306" column="0" lean-forward="true" selection-start-line="306" selection-start-column="0" selection-end-line="306" selection-end-column="0" />
-              <folding>
-                <marker date="1484973192000" expanded="true" signature="1399:1414" ph="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -93,6 +72,11 @@
       <find>black</find>
       <find>myDiv</find>
       <find>white</find>
+      <find>brand</find>
+      <find>btn</find>
+      <find>border</find>
+      <find>portfolio-img</find>
+      <find>img</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -106,11 +90,16 @@
         <option value="$PROJECT_DIR$/index3.html" />
         <option value="$PROJECT_DIR$/index1.html" />
         <option value="$PROJECT_DIR$/css/styles2.css" />
-        <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/portfolio.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/portfolio-ucfdesktop.html" />
+        <option value="$PROJECT_DIR$/portfolio-matchdesktop.html" />
+        <option value="$PROJECT_DIR$/portfolio-americandektop.html" />
+        <option value="$PROJECT_DIR$/portfoli0-ucfmobile.html" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/contact.html" />
+        <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/about.html" />
       </list>
     </option>
   </component>
@@ -183,6 +172,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/img" />
     </key>
   </component>
@@ -248,12 +238,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1484703662749</updated>
-      <workItem from="1484703666644" duration="33705000" />
+      <workItem from="1484703666644" duration="61510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33705000" />
+    <option name="totallyTimeSpent" value="61510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -399,50 +389,128 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="33" lean-forward="false" selection-start-line="49" selection-start-column="33" selection-end-line="49" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/sample5.jpeg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about.html">
+    <entry file="file://$PROJECT_DIR$/img/kitchenpic.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/port_ucfdt.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="14" lean-forward="true" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
+        <state relative-caret-position="510">
+          <caret line="34" column="14" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/port_americanairlines.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="66" selection-end-column="10" />
+        <state relative-caret-position="435">
+          <caret line="29" column="59" lean-forward="true" selection-start-line="29" selection-start-column="59" selection-end-line="29" selection-end-column="59" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.html">
+    <entry file="file://$PROJECT_DIR$/port_matchdating.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="44" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/port_ucfmobile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="748">
-          <caret line="61" column="79" lean-forward="false" selection-start-line="61" selection-start-column="79" selection-end-line="61" selection-end-column="79" />
+          <caret line="64" column="14" lean-forward="false" selection-start-line="64" selection-start-column="14" selection-end-line="64" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="841">
-          <caret line="306" column="0" lean-forward="true" selection-start-line="306" selection-start-column="0" selection-end-line="306" selection-end-column="0" />
+        <state relative-caret-position="2355">
+          <caret line="343" column="1" lean-forward="true" selection-start-line="343" selection-start-column="1" selection-end-line="343" selection-end-column="1" />
           <folding>
-            <marker date="1484973192000" expanded="true" signature="1399:1414" ph="..." />
+            <marker date="1485317920000" expanded="true" signature="1399:1414" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/American1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/American-Display(new).png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/UCF2-1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/UCF2-Display.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/IandI.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="2" lean-forward="true" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="true" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="44" lean-forward="false" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="40" column="73" lean-forward="true" selection-start-line="40" selection-start-column="73" selection-end-line="40" selection-end-column="73" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>

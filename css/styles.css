@@ -75,12 +75,8 @@
 .homepage-icon:hover {
     /*background-color: #d7d7d7;*/
     /*color: #ffffff;*/
-    /*border-color: #000000;*/
-/
-
-
-    background: rgb(0, 0, 0); /* fallback color */
-    background: rgba(0, 0, 0, 0.3);
+    /*border-color: #000000;*/;
+    background-color: #f7f7f7;
 }
 
 /* ----------- Homepage text ----------- */
@@ -100,7 +96,7 @@
 }
 
 .icontext {
-    font-size:18px;
+    font-size:15px;
     font-weight:300;
     margin-left:8px;
 }
@@ -226,26 +222,26 @@ video {
 
 
 
-div.img {
-    margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
-    width: 180px;
-}
+/*div.img {*/
+    /*margin: 5px;*/
+    /*border: 1px solid #ccc;*/
+    /*float: left;*/
+    /*width: 180px;*/
+/*}*/
 
-div.img:hover {
-    border: 1px solid #777;
-}
+/*div.img:hover {*/
+    /*border: 1px solid #777;*/
+/*}*/
 
-div.img img {
-    width: 100%;
-    height: auto;
-}
+/*div.img img {*/
+    /*width: 100%;*/
+    /*height: auto;*/
+/*}*/
 
-div.desc {
-    padding: 15px;
-    text-align: center;
-}
+/*div.desc {*/
+    /*padding: 15px;*/
+    /*text-align: center;*/
+/*}*/
 
 
 
@@ -273,9 +269,8 @@ form {
     background: linear-gradient(to bottom,  rgba(207,46,6,1) 0%,rgba(255,48,25,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cf0404', endColorstr='#ff3019',GradientType=0 ); /* IE6-9 */
     border-color: rgb(207,46,6);
-    font-weight:100;
-    letter-spacing: 3px;
-    font-family: 'Roboto', sans-serif;
+    font-weight:200;
+
 }
 
 /* ----------- Contact Page portrait ----------- */
@@ -285,7 +280,7 @@ form {
  }
     h3 {
         margin-top:15%;
-        margin-bottom:15%;
+        margin-bottom:10%;
     }
 }
 /* ----------- Contact Page landscape ----------- */
@@ -304,3 +299,61 @@ and (orientation: landscape) {
 }
 
 
+
+
+/* ----------- About Page ----------- */
+.img-circle {
+    width:200px;
+    margin-bottom:5%;
+    border:3px solid #cf2e06;
+    padding:10px;
+}
+
+
+p {
+    font-weight:200;
+    letter-spacing: 1px;
+    text-align: justify;
+    /*TODO - need to adjust this text size*/
+    font-size:18px;
+}
+
+
+
+
+/*TODO - testing out width of about text*/
+.small {
+    width:80%;
+}
+
+
+
+
+
+
+
+
+
+
+.portfolio-img {
+    margin:10px;
+    display: inline-block;
+    /*border:solid 1px lightgrey;*/
+
+
+}
+
+
+
+
+
+/*div.desc {*/
+    /*padding: 15px;*/
+    /*text-align: center;*/
+/*}*/
+
+
+.tint:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=50); /* For IE8 and earlier */
+}

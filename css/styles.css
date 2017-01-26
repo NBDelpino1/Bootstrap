@@ -138,6 +138,9 @@ form {
 }
 /*portrait*/
 @media only screen and (max-width: 500px) {
+    .navbar-brand {
+        font-size:1.25em;
+    }
     .hm-pg-icon-div {
         margin: 5px;
     }
@@ -172,6 +175,9 @@ and (min-device-width: 375px)
 and (max-device-width: 667px)
 and (-webkit-min-device-pixel-ratio: 2)
 and (orientation: landscape) {
+    .navbar-brand {
+        font-size:1.25em;
+    }
     .headline {
         font-size:46px;
         margin-top:50px;

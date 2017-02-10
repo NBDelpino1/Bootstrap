@@ -2,41 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cfe2c73-80a2-48b6-8e06-f023068690af" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/contactPageIcons/Email-Icon-Large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/contactPageIcons/Email-Icon-Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/contactPageIcons/Location-Icon-Large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/contactPageIcons/Location-Icon-Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/contactPageIcons/Phone-Icon-Large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/contactPageIcons/Phone-Icon-Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/homePageIcons/About-Icon-Large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/homePageIcons/About-Icon-Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/homePageIcons/Contact-Icon-Large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/homePageIcons/Contact-Icon-Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/homePageIcons/Portfolio-Icon-Large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/homePageIcons/Portfolio-Icon-Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/aboutMe-Icon 2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/contactMe-Icon 2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/github-logo 2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/icon-2px-border 2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/lakebg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/linkedin-logo-button 2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio-Icon 2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/youtube-logotype 2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img2/About-Icon-Large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img2/About-Icon-Medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img2/About-Icon-Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img2/Contact-Icon-Large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img2/Contact-Icon-Medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img2/Contact-Icon-Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img2/Portfolio-Icon-Large.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img2/Portfolio-Icon-Medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img2/Portfolio-Icon-Small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bgimages/BG1.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bgimages/BG2.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bgimages/BG3.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bgimages/BG4.jpeg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.html" afterPath="$PROJECT_DIR$/portfolio.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="portfolio.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/portfolio.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="600">
@@ -71,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="180" column="16" lean-forward="true" selection-start-line="180" selection-start-column="16" selection-end-line="180" selection-end-column="16" />
+            <state relative-caret-position="330">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="39" selection-end-column="3" />
               <folding />
             </state>
           </provider>
@@ -153,10 +124,10 @@
         <option value="$PROJECT_DIR$/portfolio.js" />
         <option value="$PROJECT_DIR$/js/portfolio.js" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/portfolio.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
       </list>
     </option>
   </component>
@@ -199,6 +170,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Bootstrap" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -215,11 +200,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images/bgimages" />
       <recent name="$PROJECT_DIR$/images/HomepageIcons" />
       <recent name="$PROJECT_DIR$/images/contactPageIcons" />
       <recent name="$PROJECT_DIR$/images" />
       <recent name="$PROJECT_DIR$/img2" />
-      <recent name="$PROJECT_DIR$/img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/img2" />
@@ -297,12 +282,12 @@
       <workItem from="1484703666644" duration="75236000" />
       <workItem from="1485745074186" duration="933000" />
       <workItem from="1486427315330" duration="13882000" />
-      <workItem from="1486607005936" duration="9290000" />
+      <workItem from="1486607005936" duration="10227000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99341000" />
+    <option name="totallyTimeSpent" value="100278000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -314,7 +299,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32970297" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -593,14 +578,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="180" column="16" lean-forward="true" selection-start-line="180" selection-start-column="16" selection-end-line="180" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -621,6 +598,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="40" column="50" lean-forward="false" selection-start-line="40" selection-start-column="50" selection-end-line="40" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="39" selection-end-column="3" />
           <folding />
         </state>
       </provider>
